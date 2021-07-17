@@ -5,29 +5,29 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637614074539245493
-    m_Hash: 2701596553
+      ticks: 637621264719385884
+    m_Hash: 3298200585
   m_LockFileStatus:
     m_FilePath: D:/Repos/Unity2D/Laser_Defender/Laser Defender/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637614074539265515
-    m_Hash: 3390804217
+      ticks: 637621264758585968
+    m_Hash: 1382783311
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: D:/Repos/Unity2D/Laser_Defender/Laser Defender/Packages
-m_EditorVersion: 2021.1.13f1 (a03098edbbe0)
+m_EditorVersion: 2021.1.15f1 (e767a7370072)
 m_ResolvedPackages:
-- packageId: com.unity.2d.animation@6.0.3
+- packageId: com.unity.2d.animation@6.0.4
   testable: 0
   isDirectDependency: 1
-  version: 6.0.3
+  version: 6.0.4
   source: 1
-  resolvedPath: D:\Repos\Unity2D\Laser_Defender\Laser Defender\Library\PackageCache\com.unity.2d.animation@6.0.3
+  resolvedPath: D:\Repos\Unity2D\Laser_Defender\Laser Defender\Library\PackageCache\com.unity.2d.animation@6.0.4
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -104,7 +104,6 @@ m_ResolvedPackages:
     - 6.0.4
     - 7.0.0-pre.2
     compatible:
-    - 6.0.3
     - 6.0.4
     verified: 6.0.4
   dependencies:
@@ -152,16 +151,16 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637563730420000000
+  datePublishedTicks: 637595599240000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 8752f08cdd2aa2a0153c9c70e2affdb28ccfe4bd
+    revision: c6acc0f0e19f89c41e384fa1a602555072cbb8cc
     path: 
   unityLifecycle:
-    version: 6.0.3
+    version: 6.0.4
     nextVersion: 
 - packageId: com.unity.2d.pixel-perfect@5.0.0
   testable: 0
@@ -239,12 +238,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 5.0.0
     nextVersion: 
-- packageId: com.unity.2d.psdimporter@5.0.3
+- packageId: com.unity.2d.psdimporter@5.0.4
   testable: 0
   isDirectDependency: 1
-  version: 5.0.3
+  version: 5.0.4
   source: 1
-  resolvedPath: D:\Repos\Unity2D\Laser_Defender\Laser Defender\Library\PackageCache\com.unity.2d.psdimporter@5.0.3
+  resolvedPath: D:\Repos\Unity2D\Laser_Defender\Laser Defender\Library\PackageCache\com.unity.2d.psdimporter@5.0.4
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -300,14 +299,13 @@ m_ResolvedPackages:
     - 6.0.0-pre.2
     - 6.0.0-pre.3
     compatible:
-    - 5.0.3
     - 5.0.4
     verified: 5.0.4
   dependencies:
   - name: com.unity.2d.common
     version: 5.0.0
   - name: com.unity.2d.animation
-    version: 6.0.3
+    version: 6.0.4
   - name: com.unity.2d.sprite
     version: 1.0.0
   resolvedDependencies:
@@ -326,7 +324,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.uielementsnative
     version: 1.0.0
   - name: com.unity.2d.animation
-    version: 6.0.3
+    version: 6.0.4
   - name: com.unity.mathematics
     version: 1.2.1
   - name: com.unity.modules.animation
@@ -347,16 +345,16 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637563730770000000
+  datePublishedTicks: 637595600020000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 8752f08cdd2aa2a0153c9c70e2affdb28ccfe4bd
+    revision: c6acc0f0e19f89c41e384fa1a602555072cbb8cc
     path: 
   unityLifecycle:
-    version: 5.0.3
+    version: 5.0.4
     nextVersion: 
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
@@ -412,12 +410,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-- packageId: com.unity.2d.spriteshape@6.0.0
+- packageId: com.unity.2d.spriteshape@6.0.1
   testable: 0
   isDirectDependency: 1
-  version: 6.0.0
+  version: 6.0.1
   source: 1
-  resolvedPath: D:\Repos\Unity2D\Laser_Defender\Laser Defender\Library\PackageCache\com.unity.2d.spriteshape@6.0.0
+  resolvedPath: D:\Repos\Unity2D\Laser_Defender\Laser Defender\Library\PackageCache\com.unity.2d.spriteshape@6.0.1
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -488,7 +486,6 @@ m_ResolvedPackages:
     - 7.0.0-pre.2
     - 7.0.0-pre.3
     compatible:
-    - 6.0.0
     - 6.0.1
     verified: 6.0.1
   dependencies:
@@ -540,16 +537,16 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637526400040000000
+  datePublishedTicks: 637595600290000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 82ee1598c2f1270bc1081c1f908364e528335bd5
+    revision: c6acc0f0e19f89c41e384fa1a602555072cbb8cc
     path: 
   unityLifecycle:
-    version: 6.0.0
+    version: 6.0.1
     nextVersion: 
 - packageId: com.unity.2d.tilemap@1.0.0
   testable: 0
@@ -731,6 +728,8 @@ m_ResolvedPackages:
     - 1.3.9
     - 1.4.9
     - 1.5.7
+    - 1.6.0
+    - 1.7.1
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -743,6 +742,8 @@ m_ResolvedPackages:
     - 2.1.0-preview.6
     compatible:
     - 1.5.7
+    - 1.6.0
+    - 1.7.1
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -920,7 +921,7 @@ m_ResolvedPackages:
     version: 1.1.9
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.26
+    version: 1.1.27
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
@@ -1013,12 +1014,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.3
     nextVersion: 
-- packageId: com.unity.test-framework@1.1.26
+- packageId: com.unity.test-framework@1.1.27
   testable: 0
   isDirectDependency: 1
-  version: 1.1.26
+  version: 1.1.27
   source: 1
-  resolvedPath: D:\Repos\Unity2D\Laser_Defender\Laser Defender\Library\PackageCache\com.unity.test-framework@1.1.26
+  resolvedPath: D:\Repos\Unity2D\Laser_Defender\Laser Defender\Library\PackageCache\com.unity.test-framework@1.1.27
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1064,7 +1065,6 @@ m_ResolvedPackages:
     - 1.1.26
     - 1.1.27
     compatible:
-    - 1.1.26
     - 1.1.27
     verified: 1.1.27
   dependencies:
@@ -1096,16 +1096,16 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637576439750000000
+  datePublishedTicks: 637594751620000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-    revision: ea9d07e64e6d63c4f2fd8b6bc57df0f452ff4fae
+    revision: c2f2cc9b7ea61d42964257363595dff5e8c47c42
     path: 
   unityLifecycle:
-    version: 1.1.26
+    version: 1.1.27
     nextVersion: 
 - packageId: com.unity.textmeshpro@3.0.6
   testable: 0
