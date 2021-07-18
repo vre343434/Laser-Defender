@@ -118,6 +118,10 @@ MonoBehaviour:
   projectileSpeed: 20
   deathVFX: {fileID: 6923165360047815630, guid: a80c8eacf6c9517409b78c37465771e0, type: 3}
   durationOfExplosion: 1
+  deathSound: {fileID: 8300000, guid: 86d3fa9bd729ec54fb216253895d8edf, type: 3}
+  deathSoundVolume: 0.7
+  shootSound: {fileID: 8300000, guid: dca3dfbb0f1097b4f87c155661f75250, type: 3}
+  shootSoundVolume: 0.5
 --- !u!60 &3993082780898525229
 PolygonCollider2D:
   m_ObjectHideFlags: 0

@@ -4927,7 +4927,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: -180}
 --- !u!1 &425452203
 GameObject:
@@ -4993,7 +4993,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &696359869
 PrefabInstance:
@@ -5004,7 +5004,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7152844058058737103, guid: ac0a0452838364a40bfab712f216e658, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 7152844058058737103, guid: ac0a0452838364a40bfab712f216e658, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5048,7 +5048,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7152844058058737137, guid: ac0a0452838364a40bfab712f216e658, type: 3}
       propertyPath: m_Name
-      value: Shredder (1)
+      value: Shredder Bottom
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0a0452838364a40bfab712f216e658, type: 3}
@@ -5158,7 +5158,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2040870174512640417, guid: d2e7488cfe2e940438ba852628cc5b42, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 2040870174512640417, guid: d2e7488cfe2e940438ba852628cc5b42, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5276,7 +5276,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5222916768566195665, guid: 570109aafc8b18a4d8f3293e426a1bda, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5222916768566195665, guid: 570109aafc8b18a4d8f3293e426a1bda, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5390,7 +5390,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7152844058058737103, guid: ac0a0452838364a40bfab712f216e658, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 7152844058058737103, guid: ac0a0452838364a40bfab712f216e658, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5434,7 +5434,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7152844058058737137, guid: ac0a0452838364a40bfab712f216e658, type: 3}
       propertyPath: m_Name
-      value: Shredder
+      value: Shredder Top
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac0a0452838364a40bfab712f216e658, type: 3}
