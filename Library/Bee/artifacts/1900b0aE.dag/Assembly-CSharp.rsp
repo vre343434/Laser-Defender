@@ -346,8 +346,14 @@
 "Assets/Scripts/Enemy.cs"
 "Assets/Scripts/EnemyPathing.cs"
 "Assets/Scripts/EnemySpawner.cs"
+"Assets/Scripts/GameSession.cs"
+"Assets/Scripts/HealthDisplay.cs"
+"Assets/Scripts/Level.cs"
+"Assets/Scripts/MusicPlayer.cs"
 "Assets/Scripts/Player.cs"
+"Assets/Scripts/ScoreDisplay.cs"
 "Assets/Scripts/Shredder.cs"
+"Assets/Scripts/Spinner.cs"
 "Assets/Scripts/WaveConfig.cs"
 -langversion:8.0
 

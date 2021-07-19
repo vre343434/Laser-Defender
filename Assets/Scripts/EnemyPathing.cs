@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class EnemyPathing : MonoBehaviour
 {
@@ -36,6 +37,11 @@ public class EnemyPathing : MonoBehaviour
             if (transform.position == targetPosition)
             {
                 wayPointIndex++;
+            }
+
+            if (transform.position == wayPoints[wayPoints.Count - 1].transform.position)
+            {
+                Destroy(gameObject);
             }
         }
     }
